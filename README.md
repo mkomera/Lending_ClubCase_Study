@@ -11,12 +11,17 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+The task is to identify patterns in loan default behaviour using EDA. Two risks are involved in loan approval:
+- Loss of business if a repayable loan is denied.
+- Financial loss if a defaulting loan is approved
+- We have performed an exploratory data analysis to derive insights from the lending club loan data set
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Technologies Used
+- Python  - version 3.12
+- Numpy - version 2.0
+- Pandas - version 3.0
+- MatPlotLib
+- SeaBorn
 
 ## Conclusions
 - Conclusion 1 from the analysis
@@ -27,12 +32,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
