@@ -11,7 +11,6 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- 
 - The task is to identify patterns in loan default behaviour using EDA. Two risks are involved in loan approval:
     - Loss of business if a repayable loan is denied.
     - Financial loss if a defaulting loan is approved
